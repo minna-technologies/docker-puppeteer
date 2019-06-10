@@ -1,3 +1,7 @@
+# IMPORTANT!
+This is a fork version of the original alekzonder/puppeteer docker image repository, we should use this to build our
+private docker image for security purpose.
+
 # puppeteer docker image
 
 docker image with  [Google Puppeteer](https://github.com/GoogleChrome/puppeteer) installed
